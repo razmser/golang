@@ -383,6 +383,9 @@
     "variants": [
       "bookworm",
       "bullseye",
+      "focal",
+      "jammy",
+      "noble",
       "alpine3.20",
       "alpine3.19",
       "windows/windowsservercore-ltsc2022",
@@ -784,6 +787,9 @@
     "variants": [
       "bookworm",
       "bullseye",
+      "focal",
+      "jammy",
+      "noble",
       "alpine3.20",
       "alpine3.19",
       "windows/windowsservercore-ltsc2022",
